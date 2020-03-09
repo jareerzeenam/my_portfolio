@@ -252,7 +252,8 @@ main {
 @media screen and (max-width: 768px) {
   main {
     align-items: center;
-    text-align: center; }
+    text-align: center;
+    overflow: hidden; }
     main .lg-heading {
       line-height: 1;
       margin-bottom: 1rem; }
@@ -289,4 +290,6 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .boxes div {
-    font-size: 1.3rem; } }
+    font-size: 1.3rem; }
+  main#contact h1 {
+    font-size: 5rem; } }
