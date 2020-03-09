@@ -287,4 +287,6 @@ main {
     font-size: 5rem;
     font-weight: 400; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  .boxes div {
+    font-size: 1.3rem; } }
