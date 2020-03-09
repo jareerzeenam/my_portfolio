@@ -290,4 +290,6 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .boxes div {
-    font-size: 1.3rem; } }
+    font-size: 1.3rem; }
+  main#contact h1 {
+    font-size: 5rem; } }
